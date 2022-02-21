@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(141,10): warning C4101: masss: неиспользованная локальная переменная
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(139,9): warning C4101: n: неиспользованная локальная переменная
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(79): warning C4715: poisk: значение возвращается не при всех путях выполнения
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(48): warning C4715: vvod: значение возвращается не при всех путях выполнения
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(112): warning C4716: add: должна возвращать значение
+C:\Users\tanya\source\repos\file\fileTwo\Source.c(134): warning C4715: pechat: значение возвращается не при всех путях выполнения
+  fileTwo.vcxproj -> C:\Users\tanya\source\repos\file\Debug\fileTwo.exe
